@@ -1,0 +1,20 @@
+{
+  "name": "rive",
+  "version": "1.0.0",
+  "description": "Rive Discord botu.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Valor",
+  "license": "ISC",
+  "dependencies": {
+    "@addict67/music-bot": "^1.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.1.1",
+    "djs-commands": "^1.2.2",
+    "dotenv": "^8.2.0",
+    "instagram-user": "^2.0.1",
+    "math": "0.0.3"
+  }
+}
